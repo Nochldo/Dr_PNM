@@ -57,10 +57,10 @@ body {
 
 .logo-text {
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 400;
     color: rgba(0, 255, 170, 0.39);
     letter-spacing: 1px;
-    margin-top: -1px;
+    margin-top: -2px;
     text-transform: uppercase;
 }
 
